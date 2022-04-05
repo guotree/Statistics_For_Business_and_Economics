@@ -1,2 +1,2 @@
-# Statistics_For_Business_and_Economics
-Practices by Python
+# 商务与经济统计
+每章节课后题的python实现
