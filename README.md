@@ -36,6 +36,80 @@
 
 [notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/第二章.ipynb)
 
+数据可视化建议
+
+1. 给与图形显示一个清晰简明的标题
+2. 使图形显示保持简洁，当能用二维表示时不要用三维表示
+3. 每个坐标轴有清楚的标记，并给出测量的单位
+4. 如果使用颜色来区分类别，要确保颜色是不同的
+5. 如果使用多种颜色或线型，要用图例来表明时，要将图例靠近所表示的数据
+
+数据仪表盘：一个用易于阅读、了解和解释的方式组织和表述用于监控公司或机构业绩的直观显示集合。
+
+### 需要熟悉的Python包
+
+Matplotlib
+
+```python
+import matplotlib.pyplot as plt 
+plt.pie() #饼图
+plt.scatter() #散点图
+plt.bar() #条形图
+plt.hist() #直方图
+plt.plot() #折线图
+plt.vline() #线段
+```
+
+Seaborn
+
+```python
+import seaborn as sns
+#没有饼图
+sns.scatterplot() #散点图
+sns.barplot() #条形图
+sns.distplot() #直方图
+sns.lineplot() #折线图
+```
+
+
+
+Plotly
+
+```python
+import plotly.express as px
+import plotly.graph_objects as go
+import plotly.figure_factory as ff
+
+px.scatter() #散点图
+px.line() #折线图
+go.Scatter() #散点图，折线图
+
+px.bar() #条形图
+go.Bar() #条形图
+
+px.pie() #饼图
+go.Pie() #饼图
+
+px.histogram() #直方图
+go.Histogram() #直方图
+px.distplot() #直方图混合
+ff.create_distplot() #直方图混合
+```
+
+
+
+Pandas
+
+```python
+import pandas as pd
+pd.cut() #数据分箱
+pd.qcut() #数据按百分位分箱
+pd.crosstab() #交叉表
+pd.pivot_table() #数据透视表
+```
+
+
+
 ## 第三章  描述统计学2：数值方法
 ## 第四章  概率
 ## 第六章  连续型概率分布
