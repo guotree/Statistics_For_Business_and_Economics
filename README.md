@@ -1,6 +1,6 @@
 # 商务与经济统计学习笔记
 
-郭池瑞 2022.04.05
+果tree 2022.04.05
 
 每章节课后题的python实现，计划两个月左右完成，会涉及到pandas，matplotlib，scikit-learn，seaborn，scipy等包，供学习使用
 # 目录
