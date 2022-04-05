@@ -32,6 +32,8 @@
 
 ## 第二章  描述统计学1：表格法和图形法
 
+![数据可视化](image/数据.svg)
+
 [notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/第二章.ipynb)
 
 ## 第三章  描述统计学2：数值方法
