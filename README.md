@@ -114,6 +114,55 @@ pd.pivot_table() #数据透视表
 
 ![数值方法](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/数值描述.svg)
 
+需要用到的Python包：numpy，scipy，matplotlib，plotly，seaborn
+
+```python
+import numpy as np
+from scipy import stats
+from matplotlib.pyplot as plt
+import plotly.express as px
+import plotly.gragh_objects as go
+import seaborn as sns
+
+np.mean() #算术平均数
+np.average() #加权平均数
+stats.gmean() #几何平均数
+stats.hmean() #调和平均数
+np.median() #中位数
+stats.mode() #众数
+np.quantile() #分位数
+
+np.max()-np.min() #极差
+stats.iqr() #四分位数间距
+np.var() #方差
+np.std() #标准差
+np.std()/np.mean() #标准差系数
+
+stats.skew() #偏度
+stats.kurtosis() #峰度
+stats.zscore() #zscore
+
+np.cov() #协方差
+np.correlate() #相关系数
+stats.pearsonr() #皮尔逊相关系数
+stats.spearmanr() #斯皮尔曼相关系数
+stats.kendalltau() #肯德尔相关系数
+
+#matplotlib
+plt.boxplot()
+plt.violinplot()
+#seaborn
+sns.boxplot()
+sns.violinplot()
+#plotly
+px.boxplot()
+go.Box()
+px.violin()
+go.Violin()
+```
+
+
+
 ## 第四章  概率
 ## 第六章  连续型概率分布
 ## 第七章  抽样和抽样分布
