@@ -111,6 +111,9 @@ pd.pivot_table() #数据透视表
 
 
 ## 第三章  描述统计学2：数值方法
+
+![数值方法](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/数值描述.svg)
+
 ## 第四章  概率
 ## 第六章  连续型概率分布
 ## 第七章  抽样和抽样分布
