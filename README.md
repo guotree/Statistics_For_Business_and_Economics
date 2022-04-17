@@ -132,7 +132,7 @@ np.median() #中位数
 stats.mode() #众数
 np.quantile() #分位数
 
-np.max()-np.min() #极差
+n #极差
 stats.iqr() #四分位数间距
 np.var() #方差
 np.std() #标准差
