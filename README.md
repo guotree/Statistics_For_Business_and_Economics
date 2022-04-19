@@ -164,6 +164,9 @@ go.Violin()
 
 
 ## 第四章  概率
+
+![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E6%A6%82%E7%8E%87.svg)
+
 ## 第六章  连续型概率分布
 ## 第七章  抽样和抽样分布
 ## 第八章  区间估计
