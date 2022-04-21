@@ -117,6 +117,8 @@ pd.pivot_table() #数据透视表
 
 ![数值方法](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/数值描述.svg)
 
+[notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/%E7%AC%AC%E4%B8%89%E7%AB%A0.ipynb)
+
 需要用到的Python包：numpy，scipy，matplotlib，plotly，seaborn
 
 ```python
@@ -175,7 +177,7 @@ go.Violin()
 ```python
 stats.rv_discrete()
 ```
-
+[notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/%E7%AC%AC%E4%BA%94%E7%AB%A0.ipynb)
 
 
 ## 第六章  连续型概率分布
@@ -187,6 +189,9 @@ stats.rv_continuous()
 
 
 ## 第七章  抽样和抽样分布
+
+![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E6%8A%BD%E6%A0%B7%E4%B8%8E%E6%8A%BD%E6%A0%B7%E5%88%86%E5%B8%83.svg)
+
 ## 第八章  区间估计
 ## 第九章  假设检验
 ## 第十章  两总体均值和比例的推断
