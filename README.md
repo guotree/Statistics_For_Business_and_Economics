@@ -193,6 +193,9 @@ stats.rv_continuous()
 ![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E6%8A%BD%E6%A0%B7%E4%B8%8E%E6%8A%BD%E6%A0%B7%E5%88%86%E5%B8%83.svg)
 
 ## 第八章  区间估计
+
+![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E5%8C%BA%E9%97%B4%E4%BC%B0%E8%AE%A1.svg)
+
 ## 第九章  假设检验
 ## 第十章  两总体均值和比例的推断
 ## 第十一章  总体方差的统计推断
