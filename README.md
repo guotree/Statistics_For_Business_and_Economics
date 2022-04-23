@@ -177,6 +177,7 @@ go.Violin()
 ```python
 stats.rv_discrete()
 ```
+![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E7%A6%BB%E6%95%A3%E5%9E%8B%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83.svg)
 [notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/%E7%AC%AC%E4%BA%94%E7%AB%A0.ipynb)
 
 
@@ -185,7 +186,7 @@ stats.rv_discrete()
 ```python
 stats.rv_continuous()
 ```
-
+![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E8%BF%9E%E7%BB%AD%E5%9E%8B%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83.svg)
 
 
 ## 第七章  抽样和抽样分布
