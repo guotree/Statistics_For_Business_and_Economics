@@ -35,7 +35,7 @@
 
 ## 第二章  描述统计学1：表格法和图形法
 
-![数据可视化](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/数据.svg)
+![数据可视化](./image/数据.svg)
 
 [notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/第二章.ipynb)
 
@@ -115,7 +115,7 @@ pd.pivot_table() #数据透视表
 
 ## 第三章  描述统计学2：数值方法
 
-![数值方法](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/数值描述.svg)
+![数值方法](./image/数值描述.svg)
 
 [notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/%E7%AC%AC%E4%B8%89%E7%AB%A0.ipynb)
 
@@ -170,14 +170,14 @@ go.Violin()
 
 ## 第四章  概率
 
-![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E6%A6%82%E7%8E%87.svg)
+![](./image/概率.svg)
 
 ## 第五章 离散型概率分布
 
 ```python
 stats.rv_discrete()
 ```
-![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E7%A6%BB%E6%95%A3%E5%9E%8B%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83.svg)
+![](./image/离散型概率分布.svg)
 [notebook](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/notebook/%E7%AC%AC%E4%BA%94%E7%AB%A0.ipynb)
 
 
@@ -186,20 +186,23 @@ stats.rv_discrete()
 ```python
 stats.rv_continuous()
 ```
-![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E8%BF%9E%E7%BB%AD%E5%9E%8B%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83.svg)
-
+![](./image/连续型概率分布.svg)
 
 ## 第七章  抽样和抽样分布
 
-![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E6%8A%BD%E6%A0%B7%E4%B8%8E%E6%8A%BD%E6%A0%B7%E5%88%86%E5%B8%83.svg)
+![](./image/抽样与抽样分布.svg)
 
 ## 第八章  区间估计
 
-![](https://github.com/guotree/Statistics_For_Business_and_Economics/blob/main/image/%E5%8C%BA%E9%97%B4%E4%BC%B0%E8%AE%A1.svg)
+![](./image/区间估计.svg)
 
 ## 第九章  假设检验
 ## 第十章  两总体均值和比例的推断
+
+![](./image/两总体均值和比例的推断.svg)
+
 ## 第十一章  总体方差的统计推断
+
 ## 第十二章  多个比例的比较、独立性及拟合优度检验
 ## 第十三章  实验设计与方差分析
 ## 第十四章  简单线性回归
